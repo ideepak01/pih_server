@@ -1,0 +1,333 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _005",
+                "Recordmode": "",
+                "ReportName": "TS Report 5",
+                "ReportDesc": "Technical Services Report 5",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Single Chart\nitem1-widget_title|Patents Granted\nitem1-widget_subtitle|\nitem1-chart_type|Waterfall Chart\nitem1-kpi|[KT1010 - Flaring Intensity, KT1011 - SO2 Emissions, KT1074 - On Job Fatalities, KT1075 - Visitors Requests]\nitem1-yaxis|Actual\nitem1-kpi_names|[Flaring Intensity, SO2 Emissions, On Job Fatalities, Visitors Requests]\nitem1-table_icons|[]\nitem1-kpi_categories|[, , , ]\nitem1-simple_card_uom|\n",
+                "IconName": "Dollar",
+                "Createdon": "2024-11-20",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-20",
+                "Changedby": "POWER_USER",
+                "ReportTheme":"image3.jpg"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _002",
+                "Recordmode": "",
+                "ReportName": "TS Report 2",
+                "ReportDesc": "Technical Services Report 2",
+                "Metadata": "item1-widget_icon|Risk\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem2-widget_icon|Risk\nitem2-widget_type|Simple Metric\nitem2-widget_title|SO2 Emissions\nitem2-widget_subtitle|undefined\nitem2-simple_card_kpi|KT1011 - SO2 Emissions\nitem2-simple_card_metric_1|Actual\nitem2-simple_card_metric_2|Last Year\nitem2-simple_card_metric_3|Plan\nitem2-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Asset Net Book Value\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT1366 - Assets Net Book Value\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Patents Filed\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT236 - Patents Filed\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Finance\nitem6-widget_type|Single Chart\nitem6-widget_title|Patents Granted\nitem6-widget_subtitle|Prime Example\nitem6-chart_type|Bubble Chart\nitem6-vertical_dual_bar_chart_template|undefined\nitem6-kpi|undefined\nitem6-kpi_names|\nitem6-table_icons|\nitem6-kpi_categories|\nitem6-simple_card_uom|",
+                "IconName": "",
+                "Createdon": "2024-11-12",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-12",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _003",
+                "Recordmode": "",
+                "ReportName": "TS Report 3",
+                "ReportDesc": "Technical Services Report 3",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|Month\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-xaxis|KPI Name\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem2-table_icons|\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards (Corp.)\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem7-widget_icon|Management\nitem7-widget_type|Multi Metrics\nitem7-widget_title|Project Management & Contracting\nitem7-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem7-multi_metric_types|Table Widget\nitem7-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem7-multi_metric_table_metric1|Last Year\nitem7-multi_metric_table_metric2|Actual\nitem7-multi_metric_table_metric3|Plan\nitem7-multi_metric_table_metric4|Variance\nitem7-kpi_names|\nitem7-table_icons|Dollar,Shield,Clock,Shield\nitem8-widget_icon|Management\nitem8-widget_type|Single Chart\nitem8-widget_title|Inventory Quality\nitem8-widget_subtitle|Precision and Efficiency\nitem8-chart_type|Vertical Multi Bar Chart\nitem8-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem8-xaxis|KPI Name\nitem8-yaxis1|Actual\nitem8-yaxis2|Plan\nitem8-kpi_names|Projects,Drilling\nitem8-table_icons|\nitem9-widget_icon|HR\nitem9-widget_type|Single Chart\nitem9-widget_title|Business Sustainability\nitem9-widget_subtitle|Measuring Sustainability Impact\nitem9-chart_type|Horizontal Multi Bar Chart\nitem9-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem9-xaxis|KPI Name\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Expenditure Forecast,Project Schedule Control\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Hybrid Widget\nitem10-widget_title|Top Performers Retention\nitem10-widget_subtitle|Five Year Trend\nitem10-hybrid_widget_type1|Metrics\nitem10-hybrid_widget_type2|Chart\nitem10-hybrid_widget_card_type1|Simple Metric\nitem10-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT102 - # Certified Employee in Current GC,KT1372 - Employees HeadCount\nitem10-hybrid_widget_simple_card1_metric|Actual\nitem10-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem10-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem10-hybrid_widget_chart2_kpi_variant|Year Wise\nitem10-hybrid_widget_chart2_year_variant|5\nitem10-hybrid_widget_chart2_xaxis|Year\nitem10-hybrid_widget_chart2_yaxis|Actual\nitem10-hybrid_widget_card1_metric_label1|Separated Employees\nitem10-hybrid_widget_card1_metric_label2|Out of\nitem10-kpi_names|\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Sub Org Widget\nitem11-widget_title|Patents Granted\nitem11-widget_subtitle|Advancement in Technology and Innovation\nitem11-sub_org_widget_type|Single Chart\nitem11-sub_org_chart_type|Donut Chart\nitem11-sub_org_kpi|KT870 - Patents Granted\nitem11-sub_xaxis|Sub Org Name\nitem11-sub_yaxis|Actual\nitem12-widget_icon|Risk\nitem12-widget_type|Multi Metrics\nitem12-widget_title|Environment, Health and Safety\nitem12-widget_subtitle|Protecting people, ensuring safety, promoting sustainability\nitem12-multi_metric_types|Single Icon - Five Metric Widget\nitem12-multi_metric_icon|Risk Icon\nitem12-multi_metric_kpi1|KT1010 - Flaring Intensity,KT1011 - SO2 Emissions,KT1074 - On Job Fatalities,KT1076 - Fatalities (Off Job),KT1080 - Project Management Index\nitem12-multi_metric_metric1|Actual\nitem13-widget_icon|Risk\nitem13-widget_type|Single Chart\nitem13-widget_title|Phising Test \nitem13-widget_subtitle|Simulated attacks to enhance awareness\nitem13-chart_type|Horizontal Single Bar Chart\nitem13-kpi|KT539 - #Positive Responses to the Phishing Tests,KT891 - Phishing - Neutral,KT225 - Test Phishing Email Failure\nitem13-xaxis|KPI Name\nitem13-yaxis|Actual\nitem13-kpi_names|Positive,Neutral,Negative\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _004",
+                "Recordmode": "",
+                "ReportName": "TS Report 4",
+                "ReportDesc": "Technical Services Report 4",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-chart_type|undefined\nitem1-sub_org_widget_type|undefined\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|KPI Name\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Last Year\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem1-kpi_names|\n",
+                "IconName": "",
+                "Createdon": "2024-11-14",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-14",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _006",
+                "Recordmode": "",
+                "ReportName": "TS Report 6",
+                "ReportDesc": "Technical Services Report 6",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Start of the Year\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem8-widget_icon|Management\nitem8-widget_type|Multi Metrics\nitem8-widget_title|Project Management & Contracting\nitem8-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem8-multi_metric_types|Table Widget\nitem8-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem8-multi_metric_table_metric1|Last Year\nitem8-multi_metric_table_metric2|Actual\nitem8-multi_metric_table_metric3|Plan\nitem8-multi_metric_table_metric4|Variance\nitem8-kpi_names|\nitem8-table_icons|Dollar,Shield,Clock,Shield\nitem9-widget_icon|Management\nitem9-widget_type|Single Chart\nitem9-widget_title|Inventory Quality\nitem9-widget_subtitle|Precision and Efficiency\nitem9-chart_type|Vertical Multi Bar Chart\nitem9-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Projects,Drilling\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Single Chart\nitem10-widget_title|Business Sustainability\nitem10-widget_subtitle|Measuring Sustainability Impact\nitem10-chart_type|Horizontal Multi Bar Chart\nitem10-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem10-yaxis1|Actual\nitem10-yaxis2|Plan\nitem10-kpi_names|Expenditure Forecast,Project Schedule Control\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Hybrid Widget\nitem11-widget_title|Top Performer Retention\nitem11-widget_subtitle|Five year trend\nitem11-hybrid_widget_type1|Metrics\nitem11-hybrid_widget_type2|Chart\nitem11-hybrid_widget_card_type1|Simple Metric\nitem11-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT552 - SC11-17 employees possessing a certification,KT553 - SC11-17 employees\nitem11-hybrid_widget_simple_card1_metric|Actual\nitem11-hybrid_widget_card1_metric_label1|Separated Employees\nitem11-hybrid_widget_card1_metric_label2|out of\nitem11-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem11-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem11-hybrid_widget_chart2_kpi_variant|Year Wise\nitem11-hybrid_widget_chart2_year_variant|5\nitem11-hybrid_widget_chart2_yaxis|Actual\nitem11-kpi_names|\nitem11-table_icons|\nitem12-widget_icon|HR\nitem12-widget_type|Sub Org Widget\nitem12-widget_title|Patents Granted\nitem12-widget_subtitle|Advancements in Technology and Innovation\nitem12-sub_org_widget_type|Single Chart\nitem12-sub_org_chart_type|Donut Chart\nitem12-sub_org_kpi|KT870 - Patents Granted\nitem12-sub_xaxis|Sub Org Name\nitem12-sub_yaxis|Actual\nitem12-kpi_names|\nitem12-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _001",
+                "Recordmode": "",
+                "ReportName": "TS Report 1",
+                "ReportDesc": "TS Report 1",
+                "Metadata": "item1-widget_icon|Operation\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-chart_type|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Project Schedule Control\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT634 - Project Schedule Control\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem3-kpi_names|\nitem3-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _005",
+                "Recordmode": "",
+                "ReportName": "TS Report 5",
+                "ReportDesc": "Technical Services Report 5",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Single Chart\nitem1-widget_title|Patents Granted\nitem1-widget_subtitle|\nitem1-chart_type|Waterfall Chart\nitem1-kpi|[KT1010 - Flaring Intensity, KT1011 - SO2 Emissions, KT1074 - On Job Fatalities, KT1075 - Visitors Requests]\nitem1-yaxis|Actual\nitem1-kpi_names|[Flaring Intensity, SO2 Emissions, On Job Fatalities, Visitors Requests]\nitem1-table_icons|[]\nitem1-kpi_categories|[, , , ]\nitem1-simple_card_uom|\n",
+                "IconName": "Dollar",
+                "Createdon": "2024-11-20",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-20",
+                "Changedby": "POWER_USER",
+                "ReportTheme":"image3.jpg"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _002",
+                "Recordmode": "",
+                "ReportName": "TS Report 2",
+                "ReportDesc": "Technical Services Report 2",
+                "Metadata": "item1-widget_icon|Risk\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem2-widget_icon|Risk\nitem2-widget_type|Simple Metric\nitem2-widget_title|SO2 Emissions\nitem2-widget_subtitle|undefined\nitem2-simple_card_kpi|KT1011 - SO2 Emissions\nitem2-simple_card_metric_1|Actual\nitem2-simple_card_metric_2|Last Year\nitem2-simple_card_metric_3|Plan\nitem2-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Asset Net Book Value\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT1366 - Assets Net Book Value\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Patents Filed\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT236 - Patents Filed\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Finance\nitem6-widget_type|Single Chart\nitem6-widget_title|Patents Granted\nitem6-widget_subtitle|Prime Example\nitem6-chart_type|Bubble Chart\nitem6-vertical_dual_bar_chart_template|undefined\nitem6-kpi|undefined\nitem6-kpi_names|\nitem6-table_icons|\nitem6-kpi_categories|\nitem6-simple_card_uom|",
+                "IconName": "",
+                "Createdon": "2024-11-12",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-12",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _003",
+                "Recordmode": "",
+                "ReportName": "TS Report 3",
+                "ReportDesc": "Technical Services Report 3",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|Month\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-xaxis|KPI Name\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem2-table_icons|\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards (Corp.)\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem7-widget_icon|Management\nitem7-widget_type|Multi Metrics\nitem7-widget_title|Project Management & Contracting\nitem7-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem7-multi_metric_types|Table Widget\nitem7-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem7-multi_metric_table_metric1|Last Year\nitem7-multi_metric_table_metric2|Actual\nitem7-multi_metric_table_metric3|Plan\nitem7-multi_metric_table_metric4|Variance\nitem7-kpi_names|\nitem7-table_icons|Dollar,Shield,Clock,Shield\nitem8-widget_icon|Management\nitem8-widget_type|Single Chart\nitem8-widget_title|Inventory Quality\nitem8-widget_subtitle|Precision and Efficiency\nitem8-chart_type|Vertical Multi Bar Chart\nitem8-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem8-xaxis|KPI Name\nitem8-yaxis1|Actual\nitem8-yaxis2|Plan\nitem8-kpi_names|Projects,Drilling\nitem8-table_icons|\nitem9-widget_icon|HR\nitem9-widget_type|Single Chart\nitem9-widget_title|Business Sustainability\nitem9-widget_subtitle|Measuring Sustainability Impact\nitem9-chart_type|Horizontal Multi Bar Chart\nitem9-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem9-xaxis|KPI Name\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Expenditure Forecast,Project Schedule Control\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Hybrid Widget\nitem10-widget_title|Top Performers Retention\nitem10-widget_subtitle|Five Year Trend\nitem10-hybrid_widget_type1|Metrics\nitem10-hybrid_widget_type2|Chart\nitem10-hybrid_widget_card_type1|Simple Metric\nitem10-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT102 - # Certified Employee in Current GC,KT1372 - Employees HeadCount\nitem10-hybrid_widget_simple_card1_metric|Actual\nitem10-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem10-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem10-hybrid_widget_chart2_kpi_variant|Year Wise\nitem10-hybrid_widget_chart2_year_variant|5\nitem10-hybrid_widget_chart2_xaxis|Year\nitem10-hybrid_widget_chart2_yaxis|Actual\nitem10-hybrid_widget_card1_metric_label1|Separated Employees\nitem10-hybrid_widget_card1_metric_label2|Out of\nitem10-kpi_names|\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Sub Org Widget\nitem11-widget_title|Patents Granted\nitem11-widget_subtitle|Advancement in Technology and Innovation\nitem11-sub_org_widget_type|Single Chart\nitem11-sub_org_chart_type|Donut Chart\nitem11-sub_org_kpi|KT870 - Patents Granted\nitem11-sub_xaxis|Sub Org Name\nitem11-sub_yaxis|Actual\nitem12-widget_icon|Risk\nitem12-widget_type|Multi Metrics\nitem12-widget_title|Environment, Health and Safety\nitem12-widget_subtitle|Protecting people, ensuring safety, promoting sustainability\nitem12-multi_metric_types|Single Icon - Five Metric Widget\nitem12-multi_metric_icon|Risk Icon\nitem12-multi_metric_kpi1|KT1010 - Flaring Intensity,KT1011 - SO2 Emissions,KT1074 - On Job Fatalities,KT1076 - Fatalities (Off Job),KT1080 - Project Management Index\nitem12-multi_metric_metric1|Actual\nitem13-widget_icon|Risk\nitem13-widget_type|Single Chart\nitem13-widget_title|Phising Test \nitem13-widget_subtitle|Simulated attacks to enhance awareness\nitem13-chart_type|Horizontal Single Bar Chart\nitem13-kpi|KT539 - #Positive Responses to the Phishing Tests,KT891 - Phishing - Neutral,KT225 - Test Phishing Email Failure\nitem13-xaxis|KPI Name\nitem13-yaxis|Actual\nitem13-kpi_names|Positive,Neutral,Negative\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _004",
+                "Recordmode": "",
+                "ReportName": "TS Report 4",
+                "ReportDesc": "Technical Services Report 4",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-chart_type|undefined\nitem1-sub_org_widget_type|undefined\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|KPI Name\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Last Year\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem1-kpi_names|\n",
+                "IconName": "",
+                "Createdon": "2024-11-14",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-14",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _006",
+                "Recordmode": "",
+                "ReportName": "TS Report 6",
+                "ReportDesc": "Technical Services Report 6",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Start of the Year\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem8-widget_icon|Management\nitem8-widget_type|Multi Metrics\nitem8-widget_title|Project Management & Contracting\nitem8-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem8-multi_metric_types|Table Widget\nitem8-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem8-multi_metric_table_metric1|Last Year\nitem8-multi_metric_table_metric2|Actual\nitem8-multi_metric_table_metric3|Plan\nitem8-multi_metric_table_metric4|Variance\nitem8-kpi_names|\nitem8-table_icons|Dollar,Shield,Clock,Shield\nitem9-widget_icon|Management\nitem9-widget_type|Single Chart\nitem9-widget_title|Inventory Quality\nitem9-widget_subtitle|Precision and Efficiency\nitem9-chart_type|Vertical Multi Bar Chart\nitem9-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Projects,Drilling\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Single Chart\nitem10-widget_title|Business Sustainability\nitem10-widget_subtitle|Measuring Sustainability Impact\nitem10-chart_type|Horizontal Multi Bar Chart\nitem10-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem10-yaxis1|Actual\nitem10-yaxis2|Plan\nitem10-kpi_names|Expenditure Forecast,Project Schedule Control\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Hybrid Widget\nitem11-widget_title|Top Performer Retention\nitem11-widget_subtitle|Five year trend\nitem11-hybrid_widget_type1|Metrics\nitem11-hybrid_widget_type2|Chart\nitem11-hybrid_widget_card_type1|Simple Metric\nitem11-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT552 - SC11-17 employees possessing a certification,KT553 - SC11-17 employees\nitem11-hybrid_widget_simple_card1_metric|Actual\nitem11-hybrid_widget_card1_metric_label1|Separated Employees\nitem11-hybrid_widget_card1_metric_label2|out of\nitem11-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem11-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem11-hybrid_widget_chart2_kpi_variant|Year Wise\nitem11-hybrid_widget_chart2_year_variant|5\nitem11-hybrid_widget_chart2_yaxis|Actual\nitem11-kpi_names|\nitem11-table_icons|\nitem12-widget_icon|HR\nitem12-widget_type|Sub Org Widget\nitem12-widget_title|Patents Granted\nitem12-widget_subtitle|Advancements in Technology and Innovation\nitem12-sub_org_widget_type|Single Chart\nitem12-sub_org_chart_type|Donut Chart\nitem12-sub_org_kpi|KT870 - Patents Granted\nitem12-sub_xaxis|Sub Org Name\nitem12-sub_yaxis|Actual\nitem12-kpi_names|\nitem12-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _001",
+                "Recordmode": "",
+                "ReportName": "TS Report 1",
+                "ReportDesc": "TS Report 1",
+                "Metadata": "item1-widget_icon|Operation\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-chart_type|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Project Schedule Control\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT634 - Project Schedule Control\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem3-kpi_names|\nitem3-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_005')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _005",
+                "Recordmode": "",
+                "ReportName": "TS Report 5",
+                "ReportDesc": "Technical Services Report 5",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Single Chart\nitem1-widget_title|Patents Granted\nitem1-widget_subtitle|\nitem1-chart_type|Waterfall Chart\nitem1-kpi|[KT1010 - Flaring Intensity, KT1011 - SO2 Emissions, KT1074 - On Job Fatalities, KT1075 - Visitors Requests]\nitem1-yaxis|Actual\nitem1-kpi_names|[Flaring Intensity, SO2 Emissions, On Job Fatalities, Visitors Requests]\nitem1-table_icons|[]\nitem1-kpi_categories|[, , , ]\nitem1-simple_card_uom|\n",
+                "IconName": "Dollar",
+                "Createdon": "2024-11-20",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-20",
+                "Changedby": "POWER_USER",
+                "ReportTheme":"image3.jpg"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_002')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _002",
+                "Recordmode": "",
+                "ReportName": "TS Report 2",
+                "ReportDesc": "Technical Services Report 2",
+                "Metadata": "item1-widget_icon|Risk\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem2-widget_icon|Risk\nitem2-widget_type|Simple Metric\nitem2-widget_title|SO2 Emissions\nitem2-widget_subtitle|undefined\nitem2-simple_card_kpi|KT1011 - SO2 Emissions\nitem2-simple_card_metric_1|Actual\nitem2-simple_card_metric_2|Last Year\nitem2-simple_card_metric_3|Plan\nitem2-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Asset Net Book Value\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT1366 - Assets Net Book Value\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Patents Filed\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT236 - Patents Filed\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Finance\nitem6-widget_type|Single Chart\nitem6-widget_title|Patents Granted\nitem6-widget_subtitle|Prime Example\nitem6-chart_type|Bubble Chart\nitem6-vertical_dual_bar_chart_template|undefined\nitem6-kpi|undefined\nitem6-kpi_names|\nitem6-table_icons|\nitem6-kpi_categories|\nitem6-simple_card_uom|",
+                "IconName": "",
+                "Createdon": "2024-11-12",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-12",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_003')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _003",
+                "Recordmode": "",
+                "ReportName": "TS Report 3",
+                "ReportDesc": "Technical Services Report 3",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|Month\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-xaxis|KPI Name\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem2-table_icons|\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards (Corp.)\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem7-widget_icon|Management\nitem7-widget_type|Multi Metrics\nitem7-widget_title|Project Management & Contracting\nitem7-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem7-multi_metric_types|Table Widget\nitem7-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem7-multi_metric_table_metric1|Last Year\nitem7-multi_metric_table_metric2|Actual\nitem7-multi_metric_table_metric3|Plan\nitem7-multi_metric_table_metric4|Variance\nitem7-kpi_names|\nitem7-table_icons|Dollar,Shield,Clock,Shield\nitem8-widget_icon|Management\nitem8-widget_type|Single Chart\nitem8-widget_title|Inventory Quality\nitem8-widget_subtitle|Precision and Efficiency\nitem8-chart_type|Vertical Multi Bar Chart\nitem8-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem8-xaxis|KPI Name\nitem8-yaxis1|Actual\nitem8-yaxis2|Plan\nitem8-kpi_names|Projects,Drilling\nitem8-table_icons|\nitem9-widget_icon|HR\nitem9-widget_type|Single Chart\nitem9-widget_title|Business Sustainability\nitem9-widget_subtitle|Measuring Sustainability Impact\nitem9-chart_type|Horizontal Multi Bar Chart\nitem9-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem9-xaxis|KPI Name\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Expenditure Forecast,Project Schedule Control\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Hybrid Widget\nitem10-widget_title|Top Performers Retention\nitem10-widget_subtitle|Five Year Trend\nitem10-hybrid_widget_type1|Metrics\nitem10-hybrid_widget_type2|Chart\nitem10-hybrid_widget_card_type1|Simple Metric\nitem10-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT102 - # Certified Employee in Current GC,KT1372 - Employees HeadCount\nitem10-hybrid_widget_simple_card1_metric|Actual\nitem10-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem10-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem10-hybrid_widget_chart2_kpi_variant|Year Wise\nitem10-hybrid_widget_chart2_year_variant|5\nitem10-hybrid_widget_chart2_xaxis|Year\nitem10-hybrid_widget_chart2_yaxis|Actual\nitem10-hybrid_widget_card1_metric_label1|Separated Employees\nitem10-hybrid_widget_card1_metric_label2|Out of\nitem10-kpi_names|\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Sub Org Widget\nitem11-widget_title|Patents Granted\nitem11-widget_subtitle|Advancement in Technology and Innovation\nitem11-sub_org_widget_type|Single Chart\nitem11-sub_org_chart_type|Donut Chart\nitem11-sub_org_kpi|KT870 - Patents Granted\nitem11-sub_xaxis|Sub Org Name\nitem11-sub_yaxis|Actual\nitem12-widget_icon|Risk\nitem12-widget_type|Multi Metrics\nitem12-widget_title|Environment, Health and Safety\nitem12-widget_subtitle|Protecting people, ensuring safety, promoting sustainability\nitem12-multi_metric_types|Single Icon - Five Metric Widget\nitem12-multi_metric_icon|Risk Icon\nitem12-multi_metric_kpi1|KT1010 - Flaring Intensity,KT1011 - SO2 Emissions,KT1074 - On Job Fatalities,KT1076 - Fatalities (Off Job),KT1080 - Project Management Index\nitem12-multi_metric_metric1|Actual\nitem13-widget_icon|Risk\nitem13-widget_type|Single Chart\nitem13-widget_title|Phising Test \nitem13-widget_subtitle|Simulated attacks to enhance awareness\nitem13-chart_type|Horizontal Single Bar Chart\nitem13-kpi|KT539 - #Positive Responses to the Phishing Tests,KT891 - Phishing - Neutral,KT225 - Test Phishing Email Failure\nitem13-xaxis|KPI Name\nitem13-yaxis|Actual\nitem13-kpi_names|Positive,Neutral,Negative\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_004')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _004",
+                "Recordmode": "",
+                "ReportName": "TS Report 4",
+                "ReportDesc": "Technical Services Report 4",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-chart_type|undefined\nitem1-sub_org_widget_type|undefined\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Last 1 Year\nitem1-hybrid_widget_chart1_xaxis|KPI Name\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Last Year\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem1-kpi_names|\n",
+                "IconName": "",
+                "Createdon": "2024-11-14",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-14",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_006')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _006",
+                "Recordmode": "",
+                "ReportName": "TS Report 6",
+                "ReportDesc": "Technical Services Report 6",
+                "Metadata": "item1-widget_icon|Finance\nitem1-widget_type|Hybrid Widget\nitem1-widget_title|Controllable Cost ($MM)\nitem1-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem1-hybrid_widget_type1|Chart\nitem1-hybrid_widget_type2|Metrics\nitem1-hybrid_widget_chart_type1|Two Line Chart\nitem1-hybrid_widget_chart_kpi1|KT988 - Controllable Cost\nitem1-hybrid_widget_chart1_kpi_variant|Month Wise\nitem1-hybrid_widget_chart1_month_variant|Start of the Year\nitem1-hybrid_widget_chart1_yaxis1|Actual\nitem1-hybrid_widget_chart1_yaxis2|Plan\nitem1-hybrid_widget_card_type2|2-1-2 Metric\nitem1-hybrid_widget_card_kpi2|KT988 - Controllable Cost\nitem1-hybrid_widget_card2_metric1|Actual\nitem1-hybrid_widget_card2_metric2|Plan\nitem1-hybrid_widget_card2_metric3|Variance\nitem1-hybrid_widget_card2_metric4|This Month\nitem1-hybrid_widget_card2_metric5|This QTR\nitem2-widget_icon|Finance\nitem2-widget_type|Single Chart\nitem2-widget_title|Direct Controllable Cost ($MM)\nitem2-widget_subtitle|Expenses directly influenced by management and operational decisions\nitem2-chart_type|Waterfall Chart\nitem2-kpi|KT1353 - Computing,KT1354 - AV & Office Devices,KT988 - Controllable Cost,KT1357 - Contracts\nitem2-yaxis|Actual\nitem2-kpi_names|Computing,AV&Office Devices,Controllable Cost,Contracts\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Expenditure Forecast\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT631 - Expenditure Forecast\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem4-widget_icon|Operation\nitem4-widget_type|Simple Metric\nitem4-widget_title|Project Schedule Control\nitem4-widget_subtitle|undefined\nitem4-simple_card_kpi|KT634 - Project Schedule Control\nitem4-simple_card_metric_1|Actual\nitem4-simple_card_metric_2|Last Year\nitem4-simple_card_metric_3|Plan\nitem4-simple_card_metric_4|Variance\nitem5-widget_icon|Operation\nitem5-widget_type|Simple Metric\nitem5-widget_title|Alignment to Industry Standards\nitem5-widget_subtitle|undefined\nitem5-simple_card_kpi|KT259 - Alignment to Industry Standards (Corp.)\nitem5-simple_card_metric_1|Actual\nitem5-simple_card_metric_2|Last Year\nitem5-simple_card_metric_3|Plan\nitem5-simple_card_metric_4|Variance\nitem6-widget_icon|Management\nitem6-widget_type|Single Chart\nitem6-widget_title|Operational Excellence\nitem6-widget_subtitle|Efficiency, quality, improvement\nitem6-chart_type|Radial Chart\nitem6-kpi|KT255 - Operational Excellence Index\nitem6-radial_metric|Actual\nitem6-radial_range|5\nitem6-kpi_names|Operational Excellence Index\nitem8-widget_icon|Management\nitem8-widget_type|Multi Metrics\nitem8-widget_title|Project Management & Contracting\nitem8-widget_subtitle|Effective planning, execution, compliance, and stakeholder collaboration\nitem8-multi_metric_types|Table Widget\nitem8-multi_metric_table_kpi|KT638 - Project Cost Compliance,KT642 - Project Quality Index,KT413 - Projects Contracts Cycle-Time,KT1080 - Project Management Index\nitem8-multi_metric_table_metric1|Last Year\nitem8-multi_metric_table_metric2|Actual\nitem8-multi_metric_table_metric3|Plan\nitem8-multi_metric_table_metric4|Variance\nitem8-kpi_names|\nitem8-table_icons|Dollar,Shield,Clock,Shield\nitem9-widget_icon|Management\nitem9-widget_type|Single Chart\nitem9-widget_title|Inventory Quality\nitem9-widget_subtitle|Precision and Efficiency\nitem9-chart_type|Vertical Multi Bar Chart\nitem9-kpi|KT348 - Projects Inventory Quality Ratio,KT960 - Drilling Inventory Quality Ratio\nitem9-yaxis1|Actual\nitem9-yaxis2|Plan\nitem9-kpi_names|Projects,Drilling\nitem9-table_icons|\nitem10-widget_icon|HR\nitem10-widget_type|Single Chart\nitem10-widget_title|Business Sustainability\nitem10-widget_subtitle|Measuring Sustainability Impact\nitem10-chart_type|Horizontal Multi Bar Chart\nitem10-kpi|KT631 - Expenditure Forecast,KT634 - Project Schedule Control\nitem10-yaxis1|Actual\nitem10-yaxis2|Plan\nitem10-kpi_names|Expenditure Forecast,Project Schedule Control\nitem10-table_icons|\nitem11-widget_icon|HR\nitem11-widget_type|Hybrid Widget\nitem11-widget_title|Top Performer Retention\nitem11-widget_subtitle|Five year trend\nitem11-hybrid_widget_type1|Metrics\nitem11-hybrid_widget_type2|Chart\nitem11-hybrid_widget_card_type1|Simple Metric\nitem11-hybrid_widget_card_kpi1|KT5 - Top Performer Retention,KT552 - SC11-17 employees possessing a certification,KT553 - SC11-17 employees\nitem11-hybrid_widget_simple_card1_metric|Actual\nitem11-hybrid_widget_card1_metric_label1|Separated Employees\nitem11-hybrid_widget_card1_metric_label2|out of\nitem11-hybrid_widget_chart_type2|Vertical Single Bar Chart\nitem11-hybrid_widget_chart_kpi2|KT5 - Top Performer Retention\nitem11-hybrid_widget_chart2_kpi_variant|Year Wise\nitem11-hybrid_widget_chart2_year_variant|5\nitem11-hybrid_widget_chart2_yaxis|Actual\nitem11-kpi_names|\nitem11-table_icons|\nitem12-widget_icon|HR\nitem12-widget_type|Sub Org Widget\nitem12-widget_title|Patents Granted\nitem12-widget_subtitle|Advancements in Technology and Innovation\nitem12-sub_org_widget_type|Single Chart\nitem12-sub_org_chart_type|Donut Chart\nitem12-sub_org_kpi|KT870 - Patents Granted\nitem12-sub_xaxis|Sub Org Name\nitem12-sub_yaxis|Actual\nitem12-kpi_names|\nitem12-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_META_DATASet(Orgunit='30002950',ReportId='TS%20_001')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_META_DATA"
+                },
+                "Orgunit": "30002950",
+                "ReportId": "TS _001",
+                "Recordmode": "",
+                "ReportName": "TS Report 1",
+                "ReportDesc": "TS Report 1",
+                "Metadata": "item1-widget_icon|Operation\nitem1-widget_type|Simple Metric\nitem1-widget_title|Expenditure Forecast\nitem1-widget_subtitle|undefined\nitem1-chart_type|undefined\nitem1-simple_card_kpi|KT631 - Expenditure Forecast\nitem1-simple_card_metric_1|Actual\nitem1-simple_card_metric_2|Last Year\nitem1-simple_card_metric_3|Plan\nitem1-simple_card_metric_4|Variance\nitem3-widget_icon|Operation\nitem3-widget_type|Simple Metric\nitem3-widget_title|Project Schedule Control\nitem3-widget_subtitle|undefined\nitem3-simple_card_kpi|KT634 - Project Schedule Control\nitem3-simple_card_metric_1|Actual\nitem3-simple_card_metric_2|Last Year\nitem3-simple_card_metric_3|Plan\nitem3-simple_card_metric_4|Variance\nitem3-kpi_names|\nitem3-table_icons|\n",
+                "IconName": "",
+                "Createdon": "2024-11-18",
+                "Createdby": "POWER_USER",
+                "Date0": "2024-11-18",
+                "Changedby": "POWER_USER"
+            }
+        ]
+    }
+}

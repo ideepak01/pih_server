@@ -1,0 +1,1878 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('K259')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('K259')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "K259",
+                "KpiText": "",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1010')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1010')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1010",
+                "KpiText": "Flaring Intensity",
+                "Uom": "SCF/B",
+                "UomText": "SCF/B"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1011')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1011')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1011",
+                "KpiText": "SO2 Emissions",
+                "Uom": "TMT",
+                "UomText": "TMT"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT102')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT102')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT102",
+                "KpiText": "# Certified Employee in Current GC",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT103')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT103')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT103",
+                "KpiText": "# Manpower Tracked for Certification- Competency",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1072')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1072')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1072",
+                "KpiText": "Conflict of Interest – Complied",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1073')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1073')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1073",
+                "KpiText": "Conflict of Interest – Not Complied",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1074')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1074')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1074",
+                "KpiText": "On Job Fatalities",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1075')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1075')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1075",
+                "KpiText": "Visitors Requests",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1076')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1076')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1076",
+                "KpiText": "Fatalities (Off Job)",
+                "Uom": "RATE",
+                "UomText": "RATE"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1077')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1077')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1077",
+                "KpiText": "Productivity of  Active Projects",
+                "Uom": "USD",
+                "UomText": "$"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1078')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1078')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1078",
+                "KpiText": "Total Value of Active Projects ($)",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1079')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1079')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1079",
+                "KpiText": "Man-Hours (#)",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1080')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1080')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1080",
+                "KpiText": "Project Management Index",
+                "Uom": "USD",
+                "UomText": "$"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1090')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1090')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1090",
+                "KpiText": "Corporate IT Cybersecurity Maturity Level",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1091')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1091')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1091",
+                "KpiText": "Corporate OT Cybersecurity Maturity Level",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT112')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT112')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT112",
+                "KpiText": "",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT113')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT113')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT113",
+                "KpiText": "",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1334')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1334')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1334",
+                "KpiText": "Applications Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1335')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1335')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1335",
+                "KpiText": "# Used applications hours",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1336')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1336')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1336",
+                "KpiText": "Total Applications capacity (Hours)",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1337')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1337')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1337",
+                "KpiText": "Planning & Governance Function Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1338')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1338')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1338",
+                "KpiText": "# Planning & Governance FTE",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1339')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1339')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1339",
+                "KpiText": "# IT FTE",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1340')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1340')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1340",
+                "KpiText": "Hosting Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1341')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1341')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1341",
+                "KpiText": "# Managed Computer Systems",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1342')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1342')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1342",
+                "KpiText": "# FTE allocated to provide IT Hosting service",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1343')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1343')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1343",
+                "KpiText": "Radio Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1344')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1344')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1344",
+                "KpiText": "# Supported Radio",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1345')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1345')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1345",
+                "KpiText": "# FTE allocated to provide Radio Service",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1346')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1346')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1346",
+                "KpiText": "VSAT Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1347')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1347')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1347",
+                "KpiText": "# VSAT Terminals",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1348')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1348')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1348",
+                "KpiText": "# FTE in providing VSAT Service",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1349')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1349')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1349",
+                "KpiText": "IKTVA Value Generated through the identified IKTVA Contracts",
+                "Uom": "USD",
+                "UomText": "$"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1351')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1351')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1351",
+                "KpiText": "MPS - Number of YTD Requests",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1352')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1352')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1352",
+                "KpiText": "MCM - Number of YTD Requests",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1353')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1353')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1353",
+                "KpiText": "Computing",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1354')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1354')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1354",
+                "KpiText": "AV & Office Devices",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1355')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1355')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1355",
+                "KpiText": "Networking",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1356')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1356')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1356",
+                "KpiText": "Communications",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1357')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1357')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1357",
+                "KpiText": "Contracts",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1363')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1363')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1363",
+                "KpiText": "PMP Events Status",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1365')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1365')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1365",
+                "KpiText": "reusable KPI Key from active Tile",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1366')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1366')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1366",
+                "KpiText": "Assets Net Book Value",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1367')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1367')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1367",
+                "KpiText": "Pending Purchase Requisitions",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1368')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1368')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1368",
+                "KpiText": "Pending Purchase Orders",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1369')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1369')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1369",
+                "KpiText": "reusable KPI Key",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1370')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1370')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1370",
+                "KpiText": "Number of Employees (HR)",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1371')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1371')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1371",
+                "KpiText": "reusable KPI Key",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1372')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1372')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1372",
+                "KpiText": "Employees HeadCount",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1375')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1375')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1375",
+                "KpiText": "HR - Vacant Positions",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1376')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1376')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1376",
+                "KpiText": "HR - Permanent Positions",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1377')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1377')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1377",
+                "KpiText": "HR - Acting Positions",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1397')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1397')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1397",
+                "KpiText": "Project Schedule Control (Weighted)",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1408')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1408')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1408",
+                "KpiText": "Upto $100MM",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1409')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1409')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1409",
+                "KpiText": ">$100MM to $500MM",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1410')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1410')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1410",
+                "KpiText": ">=$500MM",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1418')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1418')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1418",
+                "KpiText": "Telephony Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1419')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1419')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1419",
+                "KpiText": "# Supported telephones",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1420')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1420')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1420",
+                "KpiText": "# FTE involved in providing Telephony service",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1421')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1421')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1421",
+                "KpiText": "Workstation and peripherals Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1422')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1422')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1422",
+                "KpiText": "# Computing OFFICE Devices",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1423')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1423')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1423",
+                "KpiText": "# FTE involved in providing workstation & peripherals Svcs",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1424')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1424')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1424",
+                "KpiText": "Connectivity Service Labor Productivity",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1425')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1425')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1425",
+                "KpiText": "# Supported Active Ports",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1426')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1426')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1426",
+                "KpiText": "# FTE allocated to provide connectivity service",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1427')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1427')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1427",
+                "KpiText": "Billable Services",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1428')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1428')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1428",
+                "KpiText": "Non-Billable Services",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1429')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1429')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1429",
+                "KpiText": "Reusable KPI Key (Because of Active Tile Changes for OS SS)",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1430')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1430')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1430",
+                "KpiText": "Total Minor Injuries",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1431')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1431')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1431",
+                "KpiText": "Total Major Injuries",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1432')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1432')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1432",
+                "KpiText": "Open Safety Recommendations (ALL) - SAMIR",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1433')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1433')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1433",
+                "KpiText": "Open Safety Recommendations (ALL) - Compliance Reviews",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1435')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1435')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1435",
+                "KpiText": "PMP Events Codes",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1437')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT1437')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT1437",
+                "KpiText": "Open Safety Recommendations (> 12 Mths) - Compliance Reviews",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT225')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT225')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT225",
+                "KpiText": "Test Phishing Email Failure",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT227')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT227')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT227",
+                "KpiText": "E-Learning Security Essentials Completion",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT231')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT231')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT231",
+                "KpiText": "LTI  Incident Rate.",
+                "Uom": "200KH",
+                "UomText": "per 200K H"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT232')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT232')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT232",
+                "KpiText": "Minor-to-Major Injury Ratio",
+                "Uom": "RATIO",
+                "UomText": "Ratio"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT235')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT235')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT235",
+                "KpiText": "Employee Innovation Participation Rate",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT236')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT236')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT236",
+                "KpiText": "Patents Filed",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT237')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT237')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT237",
+                "KpiText": "Professional Certification",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT238')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT238')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT238",
+                "KpiText": "Number of Failed Responses to the Phishing Tests",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT239')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT239')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT239",
+                "KpiText": "Number of Phishing Test Recipients",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT250')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT250')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT250",
+                "KpiText": "Saudi SMP Contractors",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT251')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT251')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT251",
+                "KpiText": "Total SMP Contractors",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT252')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT252')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT252",
+                "KpiText": "Saudi Service Contractors",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT253')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT253')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT253",
+                "KpiText": "Total Service Contractors",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT255')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT255')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT255",
+                "KpiText": "Operational Excellence Index",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT259')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT259')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT259",
+                "KpiText": "Alignment to Industry Standards (Corp.)",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT287')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT287')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT287",
+                "KpiText": "Headcount Tracked for USB Waiver",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT288')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT288')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT288",
+                "KpiText": "Headcount with USB waiver",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT289')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT289')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT289",
+                "KpiText": "Employees Completed E-learning",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT290')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT290')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT290",
+                "KpiText": "Total Tracked Employees",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT348')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT348')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT348",
+                "KpiText": "Projects Inventory Quality Ratio",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT4')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT4')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT4",
+                "KpiText": "Total No. of Employees (Regular + SMPs)",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT40')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT40')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT40",
+                "KpiText": "Competency Index",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT401')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT401')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT401",
+                "KpiText": "AIMS Implementation Level",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT413')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT413')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT413",
+                "KpiText": "Projects Contracts Cycle-Time",
+                "Uom": "DAYS",
+                "UomText": "Days"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT498')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT498')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT498",
+                "KpiText": "#Loss Time Injuries",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT499')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT499')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT499",
+                "KpiText": "#On-Job Man Hours (Emp)",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT5')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT5')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT5",
+                "KpiText": "Top Performer Retention",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT501')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT501')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT501",
+                "KpiText": "Total Minor Injuries",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT502')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT502')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT502",
+                "KpiText": "Total Major Injuries",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT538')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT538')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT538",
+                "KpiText": "Phishing KPI (Positive)",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT539')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT539')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT539",
+                "KpiText": "#Positive Responses to the Phishing Tests",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT550')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT550')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT550",
+                "KpiText": "Number of Ideas Submitters",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT552')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT552')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT552",
+                "KpiText": "SC11-17 employees possessing a certification",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT553')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT553')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT553",
+                "KpiText": "SC11-17 employees",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT554')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT554')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT554",
+                "KpiText": "%IDP Approved GC11-17",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT555')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT555')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT555",
+                "KpiText": "SC11-17 (G Suffix) IDPs in place",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT556')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT556')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT556",
+                "KpiText": "TS employees SC11-17 (G Suffix)",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT557')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT557')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT557",
+                "KpiText": "M&PDD Training Utilization",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT558')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT558')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT558",
+                "KpiText": "Attended",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT559')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT559')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT559",
+                "KpiText": "Canceled",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT560')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT560')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT560",
+                "KpiText": "No Show",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT561')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT561')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT561",
+                "KpiText": "Failed",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT631')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT631')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT631",
+                "KpiText": "Expenditure Forecast",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT632')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT632')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT632",
+                "KpiText": "Actual project expenditures",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT633')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT633')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT633",
+                "KpiText": "Planned project expenditures",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT634')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT634')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT634",
+                "KpiText": "Project Schedule Control",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT638')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT638')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT638",
+                "KpiText": "Project Cost Compliance",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT642')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT642')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT642",
+                "KpiText": "Project Quality Index",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT844')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT844')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT844",
+                "KpiText": "Total Recorded Case Frequency.",
+                "Uom": "RATE",
+                "UomText": "RATE"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT845')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT845')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT845",
+                "KpiText": "Number of Recordable Injury/Illness (Emp)",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT848')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT848')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT848",
+                "KpiText": "Value Creation - Yellow",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT849')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT849')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT849",
+                "KpiText": "Operational  - Yellow",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT850')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT850')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT850",
+                "KpiText": "Health Safety Security Environment (HSSE)  - Yellow",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT851')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT851')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT851",
+                "KpiText": "Business Sustainability  - Yellow",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT852')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT852')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT852",
+                "KpiText": "Capital Projects (BI19) - Due",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT853')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT853')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT853",
+                "KpiText": "CPH Positions - Total",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT854')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT854')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT854",
+                "KpiText": "CPH Positions Status - Permanent",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT855')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT855')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT855",
+                "KpiText": "CPH Positions Status - Acting",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT856')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT856')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT856",
+                "KpiText": "CPH Positions Status - Vacant",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT857')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT857')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT857",
+                "KpiText": "18  Reusable KPI Key(Because of OS CC Changes)",
+                "Uom": "",
+                "UomText": ""
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT858')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT858')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT858",
+                "KpiText": "Value Creation - Meeting Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT859')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT859')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT859",
+                "KpiText": "Value Creation - Below Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT860')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT860')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT860",
+                "KpiText": "Operational  - Meeting Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT861')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT861')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT861",
+                "KpiText": "Operational  - Below Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT862')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT862')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT862",
+                "KpiText": "Health Safety Security Environment (HSSE)  - Meeting Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT863')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT863')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT863",
+                "KpiText": "Health Safety Security Environment (HSSE)  - Below Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT864')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT864')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT864",
+                "KpiText": "Business Sustainability  - Meeting Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT865')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT865')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT865",
+                "KpiText": "Business Sustainability  - Below Target",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT866')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT866')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT866",
+                "KpiText": "Capital Projects (BI19) - Open",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT867')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT867')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT867",
+                "KpiText": "Capital Projects (BI19) - Approaching Deadline",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT868')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT868')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT868",
+                "KpiText": "Capital Projects (BI19) - Overdue",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT869')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT869')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT869",
+                "KpiText": "Workforce Variance",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT870')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT870')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT870",
+                "KpiText": "Patents Granted",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT871')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT871')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT871",
+                "KpiText": "Not Approved IDP",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT872')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT872')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT872",
+                "KpiText": "Not Submitted  IDP",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT873')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT873')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT873",
+                "KpiText": "Total Sponsored CDPNE",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT891')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT891')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT891",
+                "KpiText": "Phishing - Neutral",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT892')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT892')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT892",
+                "KpiText": "Traffic Violations",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT893')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT893')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT893",
+                "KpiText": "Traffic Warnings",
+                "Uom": "NUM",
+                "UomText": "NUM"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT960')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT960')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT960",
+                "KpiText": "Drilling Inventory Quality Ratio",
+                "Uom": "%",
+                "UomText": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT988')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SERACH_HELPSet('KT988')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SERACH_HELP"
+                },
+                "KtOrgunit": "30002950",
+                "Kpi": "KT988",
+                "KpiText": "Controllable Cost",
+                "Uom": "USM",
+                "UomText": "$MM"
+            }
+        ]
+    }
+}

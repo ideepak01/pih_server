@@ -1,0 +1,184 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_HEADERSet('KT870')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_HEADERSet('KT870')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_HEADER"
+                },
+                "KtPeriod": "2024010",
+                "KtOrgunit": "30002950",
+                "Kpi": "KT870",
+                "KpiText": "Patents Granted",
+                "KpiDecimal": "02",
+                "KpiUom": "NUM",
+                "Nav_KPI_Suborg": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30002949",
+                            "KtOrgText": "Procurement & Supply Chain Management",
+                            "KtActual": "80.30000",
+                            "KtPlan": "83.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "1.200000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "1.200000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30002955",
+                            "KtOrgText": "Engineering Services",
+                            "KtActual": "91.000000",
+                            "KtPlan": "80.890000",
+                            "KpiVariance": "0.1",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "70.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30030426",
+                            "KtOrgText": "Special Projects",
+                            "KtActual": "79.00000",
+                            "KtPlan": "20.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "0.800000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.800000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30039651",
+                            "KtOrgText": "Technical Services HR",
+                            "KtActual": "11.0000",
+                            "KtPlan": "22.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "0.600000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.600000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        }
+                    ]
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_HEADERSet('KT870')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_HEADERSet('KT870')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_HEADER"
+                },
+                "KtPeriod": "2024010",
+                "KtOrgunit": "30002950",
+                "Kpi": "KT870",
+                "KpiText": "Patents Granted",
+                "KpiDecimal": "02",
+                "KpiUom": "NUM",
+                "Nav_KPI_Suborg": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30002949",
+                            "KtOrgText": "Procurement & Supply Chain Management",
+                            "KtActual": "80.30000",
+                            "KtPlan": "83.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "1.200000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "1.200000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30002955",
+                            "KtOrgText": "Engineering Services",
+                            "KtActual": "91.000000",
+                            "KtPlan": "80.890000",
+                            "KpiVariance": "0.1",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "70.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30030426",
+                            "KtOrgText": "Special Projects",
+                            "KtActual": "79.00000",
+                            "KtPlan": "20.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "0.800000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.800000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_SUBORG_ITEMSet('KT870')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_SUBORG_ITEM"
+                            },
+                            "Kpi": "KT870",
+                            "KtOrgunit": "30039651",
+                            "KtOrgText": "Technical Services HR",
+                            "KtActual": "11.0000",
+                            "KtPlan": "22.000000",
+                            "KpiVariance": "0.0",
+                            "KpiCmActual": "0.600000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.600000",
+                            "KpiCqPlan": "0.000000",
+                            "KpiScore": "0.000000"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

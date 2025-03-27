@@ -1,0 +1,66 @@
+{
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+                },
+                "KtPeriod": "2024010",
+                "KtOrgunit": "30002950",
+                "Kpi": "KT631",
+                "KpiText": "Expenditure Forecast",
+                "KtActual": "150004.80000000000000",
+                "KtPlan": "30.62400000000000",
+                "KpiVariance": "2.03030303030303",
+                "KpiCmActual": "0.00000000000000",
+                "KpiCmPlan": "0.00000000000000",
+                "KpiCqActual": "0.00000000000000",
+                "KpiCqPlan": "0.00000000000000",
+                "KpiLyYtd": "92.8324324324",
+                "KpiScore": "80.00000000000000",
+                "KpiDecimal": "02",
+                "KpiUom": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+                },
+                "KtPeriod": "2024010",
+                "KtOrgunit": "30002950",
+                "Kpi": "KT631",
+                "KpiText": "Expenditure Forecast",
+                "KtActual": "123004.80000000000000",
+                "KtPlan": "30.62400000000000",
+                "KpiVariance": "2.03030303030303",
+                "KpiCmActual": "0.00000000000000",
+                "KpiCmPlan": "0.00000000000000",
+                "KpiCqActual": "0.00000000000000",
+                "KpiCqPlan": "0.00000000000000",
+                "KpiLyYtd": "92.8324324324",
+                "KpiScore": "80.00000000000000",
+                "KpiDecimal": "02",
+                "KpiUom": "%"
+            },
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+                },
+                "KtPeriod": "2024010",
+                "KtOrgunit": "30002950",
+                "Kpi": "KT631",
+                "KpiText": "Expenditure Forecast",
+                "KtActual": "150004.80000000000000",
+                "KtPlan": "30.62400000000000",
+                "KpiVariance": "2.03030303030303",
+                "KpiCmActual": "0.00000000000000",
+                "KpiCmPlan": "0.00000000000000",
+                "KpiCqActual": "0.00000000000000",
+                "KpiCqPlan": "0.00000000000000",
+                "KpiLyYtd": "92.8324324324",
+                "KpiScore": "80.00000000000000",
+                "KpiDecimal": "02",
+                "KpiUom": "%"
+            }

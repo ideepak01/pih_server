@@ -1,0 +1,218 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_HEADERSet('KT988')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_HEADERSet('KT988')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_HEADER"
+                },
+                "KtPeriodFrom": "2023010",
+                "KtPeriodTo": "2024010",
+                "Kpi": "KT988",
+                "KpiText": "Controllable Cost",
+                "KtOrgunit": "30002950",
+                "KpiDecimal": "02",
+                "KpiUom": "$MM",
+                "Nav_KPI_MonTrend": {
+                    "results": [
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0012024",
+                            "KtActual": "555.000000",
+                            "KtPlan": "987.9800000",
+                            "KpiVariance": "-43.8",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0022024",
+                            "KtActual": "1110.000000",
+                            "KtPlan": "310.800000",
+                            "KpiVariance": "257.1",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0032024",
+                            "KtActual": "1332.000000",
+                            "KtPlan": "399.600000",
+                            "KpiVariance": "233.3",
+                            "KpiCmActual": "1332.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0042024",
+                            "KtActual": "444.000000",
+                            "KtPlan": "1021.200000",
+                            "KpiVariance": "-56.5",
+                            "KpiCmActual": "444.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0052024",
+                            "KtActual": "1110.000000",
+                            "KtPlan": "777.000000",
+                            "KpiVariance": "42.9",
+                            "KpiCmActual": "1110.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0062024",
+                            "KtActual": "267.732000",
+                            "KtPlan": "987.900000",
+                            "KpiVariance": "-72.9",
+                            "KpiCmActual": "321.278400",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "214.185600",
+                            "KpiCqPlan": "0.000000"
+                        },
+
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0072024",
+                            "KtActual": "555.000000",
+                            "KtPlan": "987.9800000",
+                            "KpiVariance": "-43.8",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0082024",
+                            "KtActual": "1110.000000",
+                            "KtPlan": "310.800000",
+                            "KpiVariance": "257.1",
+                            "KpiCmActual": "0.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0092024",
+                            "KtActual": "1332.000000",
+                            "KtPlan": "399.600000",
+                            "KpiVariance": "233.3",
+                            "KpiCmActual": "1332.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0102024",
+                            "KtActual": "444.000000",
+                            "KtPlan": "1021.200000",
+                            "KpiVariance": "-56.5",
+                            "KpiCmActual": "444.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0112024",
+                            "KtActual": "1110.000000",
+                            "KtPlan": "777.000000",
+                            "KpiVariance": "42.9",
+                            "KpiCmActual": "1110.000000",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "0.000000",
+                            "KpiCqPlan": "0.000000"
+                        },
+                        {
+                            "__metadata": {
+                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_MONTHLY_TRENDSet('KT988')",
+                                "type": "ZKT_VISUALIZATION_SRV.KPI_MONTHLY_TREND"
+                            },
+                            "Kpi": "KT988",
+                            "KtPeriod": "0122024",
+                            "KtActual": "267.732000",
+                            "KtPlan": "987.900000",
+                            "KpiVariance": "-72.9",
+                            "KpiCmActual": "321.278400",
+                            "KpiCmPlan": "0.000000",
+                            "KpiCqActual": "214.185600",
+                            "KpiCqPlan": "0.000000"
+                        }
+
+                    ]
+                }
+            }
+        ]
+    }
+}

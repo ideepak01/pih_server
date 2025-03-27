@@ -1,0 +1,34 @@
+{
+
+    "d": {
+
+        "results": [
+
+            {
+
+                "__metadata": {
+
+                    "id": "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KT_USER_DETAILSSet('MANOHAMX')",
+
+                    "uri": "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KT_USER_DETAILSSet('MANOHAMX')",
+
+                    "type": "ZKT_VISUALIZATION_SRV.KT_USER_DETAILS"
+
+                },
+
+                "ZuserId": "MANOHAMX",
+
+                "ZfullName": "Manikandan Manoharan",
+
+                "ZlogonDate": "12/02/2024",
+
+                "ZlogonTime": "15:44"
+
+            }
+
+        ]
+
+    }
+
+}
+ 

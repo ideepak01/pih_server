@@ -1,0 +1,100 @@
+{
+    "d" : {
+      "results" : [
+        {
+          "__metadata" : {
+            "id" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "uri" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "type" : "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+          },
+          "KtPeriod" : "2024010",
+          "KtOrgunit" : "30002950",
+          "Kpi" : "KT631",
+          "KpiText" : "Expenditure Forecast",
+          "KtActual" : "1021300.0000000000000",
+          "KtPlan" : "30.62400000000000",
+          "KpiVariance" : "203.03030303030303",
+          "KpiCmActual" : "0.00000000000000",
+          "KpiCmPlan" : "0.00000000000000",
+          "KpiCqActual" : "0.00000000000000",
+          "KpiCqPlan" : "0.00000000000000",
+          "KpiLyYtd" : "92.80000000000000",
+          "KTDays": "12",
+          "KpiYep" : "64.03200000000000",
+          "KpiYee" : "92.80000000000000",
+          "KpiScore" : "80.00000000000000",
+          "KpiDecimal" : "02",
+          "KpiUom" : "%",
+          "LsInd" : "",
+          "FocusArea" : "Value Creation",
+          "Tlevel" : "00",
+          "Country" : "SA",
+          "Latitude" : "23.885942000000",
+          "Longitude" : "45.079162000000"
+        },
+        {
+          "__metadata" : {
+            "id" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "uri" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "type" : "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+          },
+          "KtPeriod" : "2024010",
+          "KtOrgunit" : "30002950",
+          "Kpi" : "KT631",
+          "KpiText" : "Alignment to Industry",
+          "KtActual" : "-999950.80000000000000",
+          "KtPlan" : "30.62400000000000",
+          "KpiVariance" : "178.03030303030303",
+          "KpiCmActual" : "0.00000000000000",
+          "KpiCmPlan" : "0.00000000000000",
+          "KpiCqActual" : "0.00000000000000",
+          "KpiCqPlan" : "0.00000000000000",
+          "KTDays": "90",
+          "KpiLyYtd" : "92.80000000000000",
+          "KpiYep" : "64.03200000000000",
+          "KpiYee" : "92.80000000000000",
+          "KpiScore" : "80.00000000000000",
+          "KpiDecimal" : "02",
+          "KpiUom" : "%",
+          "LsInd" : "",
+          "FocusArea" : "Value Creation",
+          "Org": "",
+          "Tlevel" : "00",
+          "Country" : "SA",
+          "Latitude" : "23.885942000000",
+          "Longitude" : "45.079162000000"
+        },
+        {
+          "__metadata" : {
+            "id" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "uri" : "http://dvb.aramco.com.sa:8003/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_VISUALIZATION_ENGINESet('KT631')",
+            "type" : "ZKT_VISUALIZATION_SRV.KPI_VISUALIZATION_ENGINE"
+          },
+          "KtPeriod" : "2024010",
+          "KtOrgunit" : "30002950",
+          "Kpi" : "KT631",
+          "KpiText" : "Project Schedule Controls",
+          "KtActual" : "533249.80000000000000",
+          "KtPlan" : "30.62400000000000",
+          "KpiVariance" : "253.03030303030303",
+          "KpiCmActual" : "0.00000000000000",
+          "KpiCmPlan" : "0.00000000000000",
+          "KpiCqActual" : "0.00000000000000",
+          "KpiCqPlan" : "0.00000000000000",
+          "KpiLyYtd" : "92.80000000000000",
+          "KpiYep" : "64.03200000000000",
+          "KpiYee" : "92.80000000000000",
+          "KpiScore" : "80.00000000000000",
+          "KpiDecimal" : "02",
+          "KTDays": "104",
+          "KpiUom" : "%",
+          "LsInd" : "",
+          "FocusArea" : "Technical Services",
+          "Tlevel" : "00",
+          "Country" : "SA",
+          "Latitude" : "23.885942000000",
+          "Longitude" : "45.079162000000"
+        }
+        ]
+      }
+    }
