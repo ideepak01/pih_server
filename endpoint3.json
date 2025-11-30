@@ -25,7 +25,7 @@
                             "KtYear": "2019",
                             "Kpi": "KT5",
                             "KtActual": "21.000000",
-                            "KtPlan": "0.000000",
+                            "KtPlan": "11.000000",
                             "KpiVariance": "0.0"
                         },
                         {
@@ -37,7 +37,7 @@
                             "KtYear": "2020",
                             "Kpi": "KT5",
                             "KtActual": "4.900000",
-                            "KtPlan": "0.000000",
+                            "KtPlan": "10.000000",
                             "KpiVariance": "0.0"
                         },
                         {
@@ -49,7 +49,7 @@
                             "KtYear": "2021",
                             "Kpi": "KT5",
                             "KtActual": "11.200000",
-                            "KtPlan": "0.000000",
+                            "KtPlan": "20.000000",
                             "KpiVariance": "0.0"
                         },
                         {
@@ -61,7 +61,7 @@
                             "KtYear": "2022",
                             "Kpi": "KT5",
                             "KtActual": "25.200000",
-                            "KtPlan": "0.000000",
+                            "KtPlan": "30.000000",
                             "KpiVariance": "0.0"
                         },
                         {
@@ -73,163 +73,7 @@
                             "KtYear": "2026",
                             "Kpi": "KT5",
                             "KtActual": "7.000000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        }
-                    ]
-                }
-            },
-            {
-                "__metadata": {
-                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_HEADERSet('KT5')",
-                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_HEADERSet('KT5')",
-                    "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_HEADER"
-                },
-                "KtYearFrom": "2019",
-                "KtYearTo": "2023",
-                "KtOrgunit": "30002950",
-                "Kpi": "KT5",
-                "KpiText": "Top Performer",
-                "KpiDecimal": "02",
-                "KpiUom": "%",
-                "Nav_KPI_YearTrend": {
-                    "results": [
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2019",
-                            "Kpi": "KT5",
-                            "KtActual": "30.000000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2020",
-                            "Kpi": "KT5",
-                            "KtActual": "34.900000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2021",
-                            "Kpi": "KT5",
-                            "KtActual": "21.200000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2022",
-                            "Kpi": "KT5",
-                            "KtActual": "15.200000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2026",
-                            "Kpi": "KT5",
-                            "KtActual": "37.000000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        }
-                    ]
-                }
-            },
-            {
-                "__metadata": {
-                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_HEADERSet('KT5')",
-                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_HEADERSet('KT5')",
-                    "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_HEADER"
-                },
-                "KtYearFrom": "2019",
-                "KtYearTo": "2023",
-                "KtOrgunit": "30002950",
-                "Kpi": "KT5",
-                "KpiText": "Top Performer",
-                "KpiDecimal": "02",
-                "KpiUom": "%",
-                "Nav_KPI_YearTrend": {
-                    "results": [
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2019",
-                            "Kpi": "KT5",
-                            "KtActual": "39.000000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2020",
-                            "Kpi": "KT5",
-                            "KtActual": "24.900000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2021",
-                            "Kpi": "KT5",
-                            "KtActual": "11.200000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2022",
-                            "Kpi": "KT5",
-                            "KtActual": "19.200000",
-                            "KtPlan": "0.000000",
-                            "KpiVariance": "0.0"
-                        },
-                        {
-                            "__metadata": {
-                                "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_YEARLY_TRENDSet('KT5')",
-                                "type": "ZKT_VISUALIZATION_SRV.KPI_YEARLY_TREND"
-                            },
-                            "KtYear": "2026",
-                            "Kpi": "KT5",
-                            "KtActual": "27.000000",
-                            "KtPlan": "0.000000",
+                            "KtPlan": "40.000000",
                             "KpiVariance": "0.0"
                         }
                     ]

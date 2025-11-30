@@ -11,8 +11,8 @@
           "KtOrgunit" : "30002950",
           "Kpi" : "KT215",
           "KpiText" : "IT Customer Satisfaction",
-          "KtActual" : "",
-          "KtPlan" : "",
+          "KtActual" : "24.787",
+          "KtPlan" : "13",
           "KpiVariance" : "",
           "KpiCmActual" : "",
           "KpiCmPlan" : "",
@@ -22,7 +22,7 @@
           "KpiYep" : "",
           "KpiYee" : "",
           "KpiScore" : "",
-          "KpiDecimal" : "00",
+          "KpiDecimal" : "02",
           "KpiUom" : "%",
           "LsInd" : ""
         },{
@@ -35,8 +35,8 @@
             "KtOrgunit" : "30002950",
             "Kpi" : "KT565",
             "KpiText" : "CRM Customer Satisfaction Survey (%)",
-            "KtActual" : "",
-            "KtPlan" : "",
+            "KtActual" : "24.5",
+            "KtPlan" : "13.56",
             "KpiVariance" : "",
             "KpiCmActual" : "",
             "KpiCmPlan" : "",
@@ -46,7 +46,7 @@
             "KpiYep" : "",
             "KpiYee" : "",
             "KpiScore" : "",
-            "KpiDecimal" : "00",
+            "KpiDecimal" : "02",
             "KpiUom" : "%",
             "LsInd" : ""
           }, {

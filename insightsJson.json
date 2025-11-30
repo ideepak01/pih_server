@@ -1,0 +1,19 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_INSIGHTSet(KtPeriod='02024003',KtOrgunit='30045168',Kpi='KT14854')",
+                    "uri": "https://DVB.ARAMCO.COM.SA:44303/sap/opu/odata/sap/ZKT_VISUALIZATION_SRV/KPI_INSIGHTSet(KtPeriod='02024003',KtOrgunit='30045168',Kpi='KT14854')",
+                    "type": "ZKT_VISUALIZATION_SRV.KPI_INSIGHT"
+                },
+                "KtPeriod": "02024003",
+                "KtOrgunit": "30045168",
+                "Kpi": "KT14854",
+                "InsightText": "<h2><strong>KPI Overview: Group OT Cybersecurity Maturity for T&amp;I : Technology &amp; Innovation</strong></h2>\n<ul>\n<li>The Group OT Cybersecurity Maturity KPI measures the overall cybersecurity maturity level of Saudi Aramco and its controlled affiliates, focusing on HSSE scope coverage. This KPI is crucial for the business as it directly impacts the security and reliability of operations.</li>\n<li>With an Actual value of <strong>2.63</strong> and a Plan value of <strong>2.65</strong> for March 2024, the performance is slightly below plan, indicating a minor shortfall in achieving the desired cybersecurity maturity level.</li>\n<li>The current monthly performance suggests stability, with a <strong>0.0%</strong> change in both Actual and Plan values from the previous month, and a Variance of <strong>-0.8%</strong>, signaling a consistent but slightly underperforming trend in cybersecurity maturity.</li>\n</ul>\n<h2><strong>Performance Trends</strong></h2>\n<h3><strong>Monthly Trend Analysis</strong></h3>\n<ul>\n<li>March 2024 showed consistent performance compared to February 2024, with no change in Actual values, indicating a stable cybersecurity maturity level. However, the slight deviation from the plan persists, suggesting ongoing efforts are needed to fully meet the targeted maturity level.</li>\n</ul>\n<h3><strong>Quarterly Trend Analysis</strong></h3>\n<ul>\n<li>Since we are in the first quarter of 2024, the analysis focuses on the absolute performance vs. plan without quarter-over-quarter comparison. The Q1 2024 performance, with an Actual value of <strong>2.63</strong> and a Plan value of <strong>2.65</strong>, indicates a minor underperformance in achieving the desired cybersecurity maturity level, highlighting the need for continued improvement to meet the planned targets.</li>\n</ul>\n<h2><strong>Organizational Impact on Group OT Cybersecurity Maturity Performance for T&amp;I : Technology &amp; Innovation</strong></h2>\n<h3><strong>Sub-Organization Contributions</strong></h3>\n<ul>\n<li>Information Security Dept contributed <strong>100.00%</strong> to T&amp;I's performance, with an actual value of <strong>2.63</strong>, indicating a strong alignment with the overall organization's cybersecurity maturity goals.</li>\n</ul>\n<h3><strong>Comparision with Other Business Lines</strong></h3>\n<ul>\n<li>T&amp;I's performance reflects a steady state of cybersecurity maturity, characterized by a high degree of operational stability and control, albeit with a slight underperformance against planned targets.</li>\n<li>The organization's ability to maintain a consistent level of cybersecurity maturity is noteworthy, given the potential complexities and challenges associated with managing operational technology (OT) systems.</li>\n<li>However, the slight underperformance suggests that T&amp;I may need to focus on optimizing its cybersecurity practices and processes to achieve higher levels of maturity and better align with its planned objectives.</li>\n</ul>",
+                "Timestamp": "20250715111034",
+                "LsInd": ""
+            }
+        ]
+    }
+}

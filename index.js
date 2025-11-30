@@ -14,6 +14,7 @@ const endpoint12 = require('./endpoint1.2.json');
 const endpoint13 = require('./endpoint1.3.json');
 const qtr_endpoint = require('./qtr_endpoint.json');
 const user_details = require('./user_details.json');
+const insights_json = require('./insightsJson.json');
 const agent = new https.Agent({
     rejectUnauthorized: true
 })
@@ -66,13 +67,24 @@ app.get('/endpoint1', async (req,res)=>{
         //     count!=1 && sample_response.d.results.push(endpoint1.d.results[0])
         // }
         // res.send(sample_response);
+        // setTimeout(()=>{
+        //     res.send(endpoint1)
+        // }, 1000)
+        console.log('intoendpoint1')
         res.send(endpoint1)
     } catch(error){
         console.log(error);
         res.status(500).json({message: error})
     }
 })
-
+app.get('/getAiInshigts', async(req,res)=>{
+    try{
+        res.send(insights_json);    
+    }catch(error){
+        console.log(error)
+        res.status(500).json({message:error})
+    }
+})
 app.get('/qtr_endpoint', async (req,res)=>{
     try{
         // const regex = /\bKT\w*/g;
@@ -198,7 +210,7 @@ app.get('/get_user_details', async (req,res)=>{
         res.status(500).json({message: error})
     }
 })
-app.listen(8080, ()=>{
+app.listen(8080, '0.0.0.0',()=>{
     console.log("server listening on port 8080");
 })
 
