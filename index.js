@@ -19,8 +19,12 @@ const agent = new https.Agent({
     rejectUnauthorized: true
 })
 app.use(cors({
+    origin: '*',
+  methods: ['GET','POST','OPTIONS'],
     exposedHeaders: ['x-csrf-token', 'cookie']
 }));
+app.options('*', cors());
+
 app.use(express.json());
 
 app.get('/get_csrf_token', async (req,res)=>{
