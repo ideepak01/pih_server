@@ -210,7 +210,8 @@ app.get('/get_user_details', async (req,res)=>{
         res.status(500).json({message: error})
     }
 })
-app.listen(8080, '0.0.0.0',()=>{
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, '0.0.0.0',()=>{
     console.log("server listening on port 8080");
 })
 
